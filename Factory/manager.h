@@ -198,19 +198,3 @@ class ModuleFactory : public ModuleFactoryBase {
 
 
 
-
-
-
-
-class TEST : public Module
-{
-public:
-  void init(){};
-};
-
-
-class TEST_2 : public Module
-{
-public:
-  void init(){};
-};
